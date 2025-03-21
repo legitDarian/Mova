@@ -1,0 +1,12 @@
+{
+  "name": "mova-bundler",
+  "description": "Bundles Mova into one JS file",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
