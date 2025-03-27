@@ -1,4 +1,4 @@
-import {MovaAPI, iNav, iModal} from "./MovaAPI.js"
+import {MovaAPI, iNav, iModal} from "./assets/MovaAPI.js"
 import {MovaUI} from "./assets/MovaUI.js"
 
 (async () => {
