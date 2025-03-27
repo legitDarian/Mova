@@ -1,6 +1,6 @@
 {
   "name": "mova-bundler",
-  "description": "Bundles Mova into one JS file",
+  "description": "Bundles Mova-Src into one JS file",
   "scripts": {
     "build": "webpack"
   },
