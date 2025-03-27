@@ -20,7 +20,6 @@ Mova is a utility for pointing out the common issues with i-Ready.
 **Note: If the bookmark bar is not showing, press Ctrl + Shift + B.**
 
 ## Build Instructions
-To build Mova, follow these instructions:
 
 ### Dependencies
 - [Node.js](https://nodejs.org/)
