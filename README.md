@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Mova" src="https://github.com/legitDarian/Mova/blob/main/assets/hax.png?raw=true">
+    <img alt="Mova" src="https://github.com/legitDarian/Mova/blob/24c419634ee9e3231784be39a7def004af3f28bc/hax.png?raw=true">
 </p>
 
 ## What is Mova?
